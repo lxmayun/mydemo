@@ -17,6 +17,7 @@ public class AtomicTest3 {
 	
 	public int getCount() {
 		return count;
+		
 	}
 
 	public void setCount(int count) {
